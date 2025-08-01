@@ -12,7 +12,7 @@ const processData = [
     id: 2,
     title: "Review",
     description:
-      "Social engagement should orient students’ academic experiences to help them become critically engaged citizens, dedicated to solving problems.",
+      "Social engagement should orient students’ Grandcrest experiences to help them become critically engaged citizens, dedicated to solving problems.",
   },
   {
     id: 3,

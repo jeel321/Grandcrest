@@ -22,7 +22,7 @@ const applicationProcess = [
   {
     step: 4,
     title: "Application Interview",
-    description: `Interviews are usually completed over the phone with a member of the Academic Team.
+    description: `Interviews are usually completed over the phone with a member of the Grandcrest Team.
       The purpose of the interview is to get to know you better, hear about your future plans, understand
       why you are interested in the course.`,
   },

@@ -3,7 +3,7 @@ import { HandCheck } from "../svg";
 import Link from "next/link";
 
 const requirements = [
-  "You can be admitted at any time during the academic year.",
+  "You can be admitted at any time during the Grandcrest year.",
   "If English is not your first language, you will need to demonstrate English <br> language proficiency equivalent to with a minimum of 5.5 in each <br> band and 6.0 in speaking.",
   "Contact information for one teacher (or two, maximum) who will complete <br> the Teacher Evaluation form.",
   "Open to students 18 years and over at course commencement.",
